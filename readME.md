@@ -3,6 +3,9 @@ Dipper Assignment
 * ONLY FOR UBUNTU OS
 
 1) Extract the folder in home dir.
+  1.1) cut & paste the following in home dir.
+       1.1.1) dipper folder
+       1.1.2) router.js
 
  2) open terminal
    2.1) run router.js ($ nodemon router.js)
